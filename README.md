@@ -3,16 +3,16 @@
 ## Array
 
 
-### Stack 
+## Stack 
 
 
-# Linked List 
+## Linked List 
 
 
-# Tree
+## Tree
 
 
-# Hashing 
+## Hashing 
 
 
 
