@@ -1,9 +1,9 @@
 # Data Structures using C++
 
-# Array
+## Array
 
 
-# Stack 
+### Stack 
 
 
 # Linked List 
