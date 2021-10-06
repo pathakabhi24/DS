@@ -1,1 +1,1 @@
-30 Days of Google Cloud Files 
+30 Days of Google Cloud Files (GCP)
